@@ -22,4 +22,7 @@ La función `useState` es un Hook de React que le permite agregar estado local a
 ---
 
 ## Enlaces del proyecto
-
+**repositorio**
+https://github.com/Hasielisaimendozalucero/t3_act4_react
+**pagina**
+https://Hasielisaimendozalucero.github.io/t3_act4_react/
